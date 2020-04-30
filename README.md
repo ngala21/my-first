@@ -9,7 +9,7 @@ This is a simple web to share some of my favorite things.
 A sample image.
 [screenshot](Screenshot.png)
 
-##BDD
+## BDD
 
 BDD(Behavior Driven Development) to be implemented here.
 
